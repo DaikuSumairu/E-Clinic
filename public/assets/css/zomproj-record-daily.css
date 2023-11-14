@@ -1,0 +1,49 @@
+.record-customize-container-height-daily{
+    height: 240px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.record-customize-container-height-visit{
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* Checkbox */
+.customize-checkbox-label{
+    position: relative;
+    margin: 8px 0px;
+}
+
+/* Dropdown */
+.customize-name-dropdown{
+    background-color: white;
+    max-height: 100px;
+    overflow-y: auto;
+    display: none;
+}
+#med_dropdown{
+    background-color: white;
+    max-height: 75px;
+    overflow-y: auto;
+    width: 186pxpx;
+    position: absolute;
+    z-index: 13;
+}
+
+/* Number */
+.customize-input-number{
+    position: static;
+    margin-top: 3px;
+    height: 25px;
+    width: 
+    55px;
+}
+
+input.customize-bg-input {
+    background-color: transparent;
+    border: none; /* Remove the border */
+    width: 50px; /* Adjust padding as needed */
+    pointer-events: none;
+  }

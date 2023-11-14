@@ -1,0 +1,25 @@
+/* Checkbox */
+.customize-checkbox{
+    position: static;
+    margin-top: 3px;
+    height: 25px;
+    width: 25px;
+}
+
+/* Number */
+.customize-input-number{
+    position: static;
+    margin-top: 3px;
+    height: 25px;
+    width: 80px;
+}
+
+.customize-checkbox-label{
+    position: absolute;
+    margin-top: 3px;
+}
+
+
+.physical_exam_input{
+    width: 25%;
+}
